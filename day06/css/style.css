@@ -1,0 +1,44 @@
+html{
+    font-size: 10px;/*rem을 설정하기 위해서는 html에서 사용하는 것이 바람직*/
+}
+
+body{
+    margin: 0; /*마진이 자동으로 설정되기 때문에 0으로 셋티*/
+    background: url("../images/leading24px-2.png");
+    min-height: 100vh;
+    font-family:;
+    /*마진이 자동으로 설정되기 때문에 0으로 셋티*/
+    font-size: 2.4rem;
+    line-height: 1.5;
+    letter-spacing: -0.02em;
+    color: #333741;
+
+}
+
+/*본문디자인*/
+p{
+    margin-top: 0;
+ /*   margin-bottom: 1.5em; */
+}
+
+/*제목공통디자인 */
+h1,h2,h3,h4,h5,h6{
+
+}
+/*제목 개별 디자인 */
+h1{}
+h2{}
+h3{}
+h4{}
+h5{}
+h6{}
+
+/*목록 공통 디자인 */
+ol,ul,li{
+
+}
+
+/*목록 개별 디자인 */
+ol{}
+ul{}
+li{}
