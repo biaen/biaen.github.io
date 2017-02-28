@@ -18,5 +18,39 @@ body{
     border: 10px solid #60e8c6;
 
     padding: 20px;
-    background: ;
+    background: hsla(21, 55%, 52%, 0.3);
+    color: #fff;
+}
+
+hr{
+
+}
+
+.inline-block-box{
+    display: inline-block;
+    background: #60e8c6;
+    color: #000;
+}
+
+.ghost-style-line{
+    display: inline-block;
+
+    margin: 20px;
+    border: 3px solid currentColor;
+    padding: 0.9375em 1.25em 0.625em;
+    font-size: 1rem;
+    font-weight: 300;
+
+
+
+}
+
+.album-image{
+    width: 100%;
+    height: auto;
+    margin: 30px 0;
+    border: 8px solid #474cc5;
+    padding: 20px;
+    background: #fff;
+
 }
